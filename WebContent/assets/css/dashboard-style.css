@@ -1,0 +1,46 @@
+
+
+#dashboard-column1 {
+	width: 30%; 
+	padding-left: 100px;
+	padding-right: 65px;	
+}
+#dashboard-column2 {
+	width: 30%; 
+	padding-left: 65px;
+	padding-right: 65px;	
+}
+#dashboard-column3 {
+	width: 30%; 
+	padding-left: 65px;
+	padding-right: 65px;	
+}
+#subheader-2 {
+	font-size: 24px;
+}
+
+#intro-paragraph {
+	width: 90%; 
+	padding-left: 100px;
+	padding-right: 65px;	
+}
+
+.row:after{
+	content: "";
+	display: table;
+	clear: both;
+}
+
+
+#buffer-row1 {
+	padding-top: 60px;
+}
+
+#header-row {
+	text-align: center;
+	font-size: 48px;
+}
+
+#bulldog-logo {
+	float: right
+}

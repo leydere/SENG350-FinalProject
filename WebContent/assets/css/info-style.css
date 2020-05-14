@@ -1,0 +1,41 @@
+
+
+#dashboard-column1 {
+	width: 35%; 
+	padding-left: 100px;
+	padding-right: 65px;	
+}
+#dashboard-column2 {
+	width: 35%; 
+	padding-left: 100px;
+	padding-right: 65px;	
+}
+
+.row:after{
+	content: "";
+	display: table;
+	clear: both;
+}
+
+
+#buffer-row1 {
+	padding-top: 60px;
+}
+
+#info-column-header {
+	font-size: 24px;
+}
+
+.no-border {
+	border: 0;
+	box-shaow: none;
+	background-color: transparent;
+}
+
+input[readonly].no-border {
+	border: 0;
+	box-shaow: none;
+	background-color: transparent;
+	color: black;
+	height: calc(1rem + 4px);
+}
